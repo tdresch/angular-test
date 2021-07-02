@@ -3,13 +3,19 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TesteAngular" expanded="True" selected="True">
-            <Node name="TesteAngular" expanded="True" />
+          <Node name="TesteAngular" expanded="True">
+            <Node name="TesteAngular" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True" />
+                <Node name="angular.json" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
